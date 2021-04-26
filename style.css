@@ -12,9 +12,8 @@ body {
   justify-content: space-between;
   align-items: center;
   min-height: 100vh;
-  background-image: url('images/bg-stars.svg');
   font-family: 'Red Hat Text', sans-serif;
-  background: url('images/bg-stars.svg') no-repeat fixed center center, linear-gradient(180deg, rgba(25,26,36,1) 5%, rgba(30,31,41,1) 38%, rgba(31,32,42,1) 39%, rgba(52,54,80,1) 76%) fixed;
+  background: url('launch-countdown-timer-main/images/bg-stars.svg') no-repeat fixed center center, linear-gradient(180deg, rgba(25,26,36,1) 5%, rgba(30,31,41,1) 38%, rgba(31,32,42,1) 39%, rgba(52,54,80,1) 76%) fixed;
   font-size: 14px;
 }
 
@@ -59,7 +58,7 @@ main {
 
 
 footer {
-  background-image: url('images/pattern-hills.svg');
+  background-image: url('launch-countdown-timer-main/images/pattern-hills.svg');
   height: 25vh;
   width: 100%;
   background-repeat: no-repeat;
